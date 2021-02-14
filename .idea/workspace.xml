@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f49159a-dcd7-4f0a-b8a3-9292e0d2dff3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WtWQ4VoRQTTPeqA081XJaKkAXG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../team3/index.html" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f49159a-dcd7-4f0a-b8a3-9292e0d2dff3" name="Default Changelist" comment="" />
+      <created>1579096028839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579096028839</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="772" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1585020336406">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="772" y="311" width="424" height="491" key="FileChooserDialogImpl/58.27.1862.1053@58.27.1862.1053" timestamp="1585020336406" />
+    <state x="643" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1584967610293">
+      <screen x="58" y="27" width="1862" height="1053" />
+    </state>
+    <state x="643" y="381" key="com.intellij.ide.util.TipDialog/58.27.1862.1053@58.27.1862.1053" timestamp="1584967610293" />
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1582476325824" />
+    <state x="1120" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1580398312607">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="1120" y="259" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1580398312607" />
+  </component>
+</project>
