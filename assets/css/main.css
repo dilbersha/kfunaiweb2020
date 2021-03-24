@@ -1137,6 +1137,10 @@ input[type="submit"] {
   overflow: hidden;
   height: 30vh;
   overflow: hidden;
+  transition-delay: 0.5s;
+}
+.c-thumb:hover {
+  height: 100%;
 }
 
 .c-thumb a {
@@ -1145,9 +1149,6 @@ input[type="submit"] {
 
 .c-thumb img {
   width: 100%;
-  -webkit-transition: all ease 0.3s;
-  -moz-transition: all ease 0.3s;
-  transition: all ease 0.3s;
 }
 
 .light-color * {
@@ -7085,12 +7086,6 @@ blockquote::before {
 
 /*Added styles*/
 
-.wow {
-  margin: 20px;
-}
-.wow:hover {
-  background-color: red;
-}
 .tvn {
   padding: 35px;
 
@@ -7102,11 +7097,74 @@ blockquote::before {
   padding: 20px;
   color: white;
 }
+.tvn p {
+  color: white;
+  width: 75%;
+  margin: auto;
+}
+
 .achievements {
   display: flex;
 }
-
+.tv_p {
+  width: 200px;
+  border-radius: 25px;
+  margin: 20px;
+}
 .ach img {
   width: 25px;
   display: flex;
+}
+.social {
+  display: flex;
+}
+.sec {
+  width: 45vw;
+  margin: auto;
+  margin-top: 5vh;
+  text-align: left;
+}
+.sec h4 {
+  color: white;
+  margin: 0 0 25px 0px;
+  text-align: left;
+  font-size: 20px;
+}
+.sec p {
+  text-align: justify;
+  width: 100%;
+}
+.sec img {
+  width: 400px;
+  border-radius: 25px;
+  margin: 20px;
+}
+.cards {
+  background-color: white;
+  transition: all 2s;
+}
+.cards:hover {
+  background-color: rgb(179, 202, 245);
+}
+@media only screen and (max-width: 800px) {
+  .d {
+    display: none;
+  }
+  .social {
+    flex-direction: column;
+  }
+  .sec {
+    margin: 0;
+    width: 100%;
+  }
+  .social {
+    width: 100%;
+  }
+  .sec img {
+    width: 200px;
+    border-radius: 10px;
+  }
+  .sec h4 {
+    margin-top: 20px;
+  }
 }
